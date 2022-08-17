@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div>
-  <a href="https://github.com/santos-andressa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=santos-andressa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!--  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-andressa&layout=compact&theme=dracula"/> -->
+  <a href="https://github.com/dessahenke">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dessahenke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dessahenke&layout=compact&theme=dracula"/> -->
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
 <div> 
   <a href="https://www.instagram.com/dessahenke/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:henkeandressa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/santos-andressa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/dessahenke/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/santos-andressa/santos-andressa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dessahenke/dessahenke/blob/output/github-contribution-grid-snake.svg)
 </div>
