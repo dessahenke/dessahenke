@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Eternal learner always in search of new knowledge and challenges!
+
+Front-end developer for 3 years 🙃 with experience in projects focused on e-commerce platforms. <br/>
+Experience in agile teams using Scrum. <br/>
+Advocate for good practices and design patterns.
+
+* Mobile (React Native | Javascript | Typescript) ✔
+* Web (React.js | Next.js | HTML | CSS | Typescript) ✔️ 
+* Bachelor's degree in Computer Science (in progress) ✔️ 
+
+
+
 <!-- <div>
   <a href="https://github.com/dessahenke">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dessahenke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,8 +24,8 @@
   <img align="center" alt="Dessa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="Dessa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Dessa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"> -->
+  <img align="center" alt="Dessa-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+<!--   <img align="center" alt="Dessa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"> -->
   <img align="right" alt="Dessa-yoda" height="150" src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif">
 </div>
   
